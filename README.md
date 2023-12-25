@@ -13,3 +13,4 @@ This project explores the use of the Scale-Invariant Feature Transform (SIFT) fo
 
 ## Libraries
 - OpenCv
+- NumPy
