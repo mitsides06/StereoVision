@@ -1,5 +1,5 @@
 ## Project Description
-This project explores the use of the Scale-Invariant Feature Transform (SIFT) for identifying distinctive keypoints in images. The approach is robust against scale, rotation, and illumination changes, making it highly effective for image analysis tasks. The project includes a detailed theoretical background as well as practical implementation of these techniques.
+This project delves into the application of Scale-Invariant Feature Transform (SIFT) for the accurate identification and matching of distinctive keypoints in images, culminating in the detailed 3D reconstruction of the captured scene. The project includes a detailed theoretical background as well as practical implementation of these techniques.
 
 ## Repository Structure
 - "main.ipynb" : A Jupyter Notebook containing the code implementation of the computer vision techniques. The notebook is primarily code-focused, demonstrating the practical application of concepts discussed in the report.
